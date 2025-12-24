@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDfmHVs_Nm8Sf5gH5ZJCCue1hycDrcLtlU',
-    appId: '1:908487905308:web:5735d9c9bd2475aea10fd9',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '908487905308',
     projectId: 'notes-pr-66cbe',
     authDomain: 'notes-pr-66cbe.firebaseapp.com',
@@ -50,16 +50,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfqu88QiV7zAoHCzPS5SXCjZgQaW4TDYI',
-    appId: '1:908487905308:android:1fc057c63e31affca10fd9',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '908487905308',
     projectId: 'notes-pr-66cbe',
     storageBucket: 'notes-pr-66cbe.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAcOFA57K3kLmB6wUHiN1yC_WbUM-1oD7U',
-    appId: '1:908487905308:ios:850d45296e0e8ae0a10fd9',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '908487905308',
     projectId: 'notes-pr-66cbe',
     storageBucket: 'notes-pr-66cbe.firebasestorage.app',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAcOFA57K3kLmB6wUHiN1yC_WbUM-1oD7U',
+    apiKey: '',
     appId: '1:908487905308:ios:850d45296e0e8ae0a10fd9',
     messagingSenderId: '908487905308',
     projectId: 'notes-pr-66cbe',
@@ -76,8 +76,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDfmHVs_Nm8Sf5gH5ZJCCue1hycDrcLtlU',
-    appId: '1:908487905308:web:196dba9f1748c306a10fd9',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '908487905308',
     projectId: 'notes-pr-66cbe',
     authDomain: 'notes-pr-66cbe.firebaseapp.com',
